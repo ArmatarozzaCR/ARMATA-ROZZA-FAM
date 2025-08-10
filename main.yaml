@@ -1,0 +1,26 @@
+name: ARMATA ROZZA FAM
+key: armatarozza
+color: purple
+emblem: Moon_03
+info:
+  logo: https://github.com/ArmatarozzaCR/ARMATA-ROZZA-FAM/blob/main/photo_2025-06-16_19-44-00.jpg?raw=true
+  description: >
+    ROZZI SINCE 2019, grande famiglia italiana di clan war.
+    Il rozzume non si crea, il rozzume non si distrugge,
+    il rozzume si trasforma.
+  social:
+    - telegram: https://t.me/reclutarozzi
+
+clans:
+  - name: ARMATA ROZZA
+    tag: P2UQP9CJ
+  - name: CE MAGNAMM
+    tag: L08VGUJ9
+  - name: I Tori Feroci
+    tag: YC89P002
+  - name: DOG RIDER
+    tag: RP889JU
+  - name: BabyRozza
+    tag: QCQPJ90R
+  - name: mini bombarolo
+    tag: PJG0R00
