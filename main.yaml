@@ -9,7 +9,7 @@ info:
     Il rozzume non si crea, il rozzume non si distrugge,
     il rozzume si trasforma.
   social:
-    - telegram: https://t.me/reclutarozzi
+    - application: https://t.me/reclutarozzi
 
 clans:
   - name: ARMATA ROZZA
@@ -23,4 +23,5 @@ clans:
   - name: BabyRozza
     tag: QCQPJ90R
   - name: mini bombarolo
+
     tag: PJG0R00
